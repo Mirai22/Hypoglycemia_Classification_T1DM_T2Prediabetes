@@ -1,8 +1,8 @@
-# Hypoglycemia_Classification_T1DM_T2Prediabetes
-This work classifies the time before the onset of hypoglycemia on patients with type 1 diabetes mellitus (T1DM) and tested on people with type 2 pre-diabetes (T2PD) as well as trained on T2DP and tested on T1DM with the same 1DCNN model.<br>
+# Hypoglycemia_Classification_T1D_T2Prediabetes
+This work classifies the time before the onset of hypoglycemia on patients with type 1 diabetes (T1D) and tested on people with type 2 pre-diabetes (T2PD) as well as trained on T2DP and tested on T1D with the same 1DCNN model.<br>
 The utilized datasets are:
-- The D1NAMO dataset (T1DM)
-- The Big Ideas Lab dataset (BILab)<br>
+- The D1NAMO dataset (T1D)
+- The Big Ideas Lab dataset (BILab) (T2PD) <br>
 
 
 The utilized classes are:
